@@ -38,6 +38,8 @@
   // windows whose WM_CLASS is "Navigator" will be spawn on tag 2 (by position, 1-indexed)
   ( window_class: "battle.net.exe", spawn_on_tag: 9, spawn_floating: true ),
   ( window_class: "MEGAsync", spawn_floating: true ),
+  ( window_class: "file-roller", spawn_floating: true ),
+  ( window_class: "nemo", spawn_floating: true ),
   // windows whose window title is "Pentablet" will be spawned floating on tag 9
   //( window_title: "Pentablet", spawn_on_tag: 9, spawn_floating: true ),
     ],
